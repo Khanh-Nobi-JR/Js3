@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f970bba-58a5-42cc-a4a7-866f6880acaf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/douloveme.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/douloveme.html" beforeDir="false" afterPath="$PROJECT_DIR$/douloveme.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597222473641</updated>
       <workItem from="1597222474718" duration="8130000" />
-      <workItem from="1597280465027" duration="14936000" />
+      <workItem from="1597280465027" duration="16300000" />
     </task>
     <servers />
   </component>
