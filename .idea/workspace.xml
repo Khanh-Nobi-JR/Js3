@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f970bba-58a5-42cc-a4a7-866f6880acaf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Cap1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goodFastCheap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple_caculator.html" beforeDir="false" afterPath="$PROJECT_DIR$/simple_caculator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/douloveme.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +29,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../baitapJS2/leapYear.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../baitapJS2/eventkeyboard.html" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -48,7 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597222473641</updated>
       <workItem from="1597222474718" duration="8130000" />
-      <workItem from="1597280465027" duration="13005000" />
+      <workItem from="1597280465027" duration="14936000" />
     </task>
     <servers />
   </component>
@@ -56,9 +54,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1597283165313">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1597308551907">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597283165313" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597308551907" />
   </component>
 </project>
