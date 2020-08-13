@@ -9,9 +9,10 @@
     td,input{
         width: 30px;
         height: 30px;
+        color: red;
     }
 </style>
-<table style="border-collapse: collapse">
+<table border="1">
     <tr>
         <td colspan="4">
             <input style="width: 140px" type="text"id="input">
@@ -36,7 +37,7 @@
         <td><input type="button" value="+"onclick="cal('+')"></input></td>
     </tr>
     <tr>
-        <td><input type="button" value="c"onclick="document.getElementById()"></input></td>
+        <td><input type="button" value="c"onclick="reset()"></input></td>
         <td><input type="button" value="0"onclick="cal('0')"></input></td>
         <td><input type="button" value="/"onclick="cal('/')"></input></td>
         <td><input type="button" value="="onclick="result()"></input></td>
@@ -51,9 +52,9 @@
         let screen = eval(list);
         document.getElementById('input').value = screen;
     }
-    // function reset(){
-    //     document.getElementById('input').value = '';
-    // }
+    function reset(){
+        document.getElementById('input').value = '' ;
+    }
 </script>
 </body>
 </html>
